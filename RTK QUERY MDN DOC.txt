@@ -1,0 +1,7 @@
+RTK QUERY MDN DOC
+SHAD CN UI COMPONENTS
+TAILWIND CSS
+redux
+cd backend npm run dev
+mongo password GbW7AinI9vSqBRjw
+2.54 hrs navbar
